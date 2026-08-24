@@ -1,51 +1,13 @@
 # Principles of Programming Languages (PL 2026)
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/alexhkurz/programming-languages-2026/)
-
 The repository for Chapman University's CPSC 354 Programming Languages (Fall 2026).
 
 - Quick links
     - [Lecture by Lecture](lecture-by-lecture.md)
     - [Syllabus](syllabus-long.md)
-    - [Feedback for Homework](feedback-hw.md)
-    - [Report](report.md)
     - [Attendance](attendance.md)
     - [Git best practices](git-best-practices.md)
     - Canvas: TBD
-
-## Schedule (overview)
-
-| Week | Theme | Day 1 | Day 2 |
-|:---:|:---|:---|:---|
-| 1 | **NNG** | General introduction | Lean NNG, hw1 (NNG) |
-| 2 | **RT1** | Solution hw1, Rewriting Theory | Rewriting Theory, hw2 (RT1) |
-| 3 | **RT2** | Solution hw2, quiz 1 (NNG) | Rewriting Theory, hw3 (RT2) |
-| 4 | **Parsing** | Solution hw3, quiz 2 (RT1) | CFG, concrete & abstract syntax trees, hw4 |
-| 5 | **PA1** | Solution hw4, quiz 3 (RT2) | Lab on PA1 (calculator), hw5 |
-| 6 | **Lambda Calculus (LC)** | Solution hw5, quiz 4 (parsing) | Syntax and semantics, hw6 |
-| 7 | **Lean Logic Game (LG)** | Solution hw6, quiz 5 (PA1) | Lean LG, hw7; **deadline PA1** |
-| 8 | **Church Encodings** | Solution hw7, quiz 6 (LC) | Church encodings, hw8 |
-| 9 | **Fixed Point Combinator (Y)** | Solution hw8, quiz 7 (LG) | Fixed Point Combinator, hw9 |
-| 10 | **PA2** | Solution hw9, quiz 8 (Church) | Lab on PA2 (lambda calculus), hw10 |
-| 11 | **Recursion** | Solution hw10, quiz 9 (Y) | Recursion, hw11 |
-| 12 | **Invariants** | Solution hw11, quiz 10 (PA2) | Invariants, hw12; **deadline PA2** |
-| 13 | **PA3** | Solution hw12, quiz 11 (Recursion) | Lab PA3 |
-| — | Thanksgiving | — | — |
-| 14 | **Taking Stock** | Q&A PA3, quiz 12 (Invariants) | Collective puzzle solving, student evals |
-| Finals | — | — | **deadline PA3** |
-
-Details (and links to notes as they appear) live in [lecture-by-lecture.md](lecture-by-lecture.md).
-
-## Point scheme
-
-| Component | Points |
-|:---|---:|
-| Quizzes (12) | 90 |
-| Attendance | 23 |
-| PA1 | 25 |
-| PA2 | 25 |
-| PA3 | 37 |
-| **Total** | **200** |
 
 ## What we will do
 
@@ -60,7 +22,7 @@ This course will be different from any other course you are going to take in com
 - We will deal with fundamental questions such as: What, in principle, can or cannot be computed? What even is computation? [^computation]
 - Instead of concentrating on one level of abstraction (hardware, operating systems, etc) we will emphasize the importance of finding the right levels of abstraction and how to reason simultaneously across different levels of abstraction. [^abstraction]
 - We emphasize working with pen & paper as much as with keyboard & screen. [^pen-paper]
-- We practice problem solving skills with weekly puzzles. [^puzzles]
+- We practice problem solving skills with weekly homewowrk and in-class quizzes. [^quizzes]
 - Programming and mathematics are two sides of the same coin. In particular, proofs are programs and programs are proofs. [^Lean]
 - Learning the principles of programming languages is a great springboard for lessons about language in general and learning in general. We connect programming language technology with these wider topics. [^philosophy]
 
@@ -74,7 +36,7 @@ This course will be different from any other course you are going to take in com
 
 [^invariants]: The basic technique to show that a solution does not exist is to find an invariant that all possible solutions must satisfy but the problem does not. But invariants have other uses as well. For example, invariants are at the heart of the design and correctness of algorithms, which we will also touch upon.
 
-[^computation]: We will learn about two mathematical answers to the question of "What is computation?": A function is computable if it can be computed by a Turing machines and a function is computable if it can be implemented in lambda calculus.
+[^computation]: We will learn about two mathematical answers to the question of "What is computation?": A function is computable if it can be computed by a Turing machine and a function is computable if it can be implemented in lambda calculus.
 
 [^abstraction]: In our experience, the ability to reason simultaneously across different levels of abstraction is the single most important skill that students of software engineering need to develop.
 
@@ -82,7 +44,7 @@ This course will be different from any other course you are going to take in com
 
 [^Lean]: This is known as the Curry-Howard correspondence. For a sneak preview see the [Lean Game Server](https://adam.math.hhu.de/).
 
-[^puzzles]: Many of the puzzles we will work on have been created for entertainment. But we will see that the general skills to solve them are the same as the ones that help us, for example, with understanding a tricky algorithm or with debugging code.
+[^quizzes]: There are 12 in-class quizzes (pen and paper); the 9 best count toward your grade. Weekly homework prepares for them; solutions are reviewed in class before each quiz. See the [syllabus](syllabus-long.md) for the point scheme.
 
 [^philosophy]: The most famous example of this is that Chomsky's work on natural language provided the basic theory of [parsing](https://jeffreykegler.github.io/personal/timeline_v3). More generally, much of learning is learning of language and proceeds through the stages of imitation of language, translation between languages, and creation of new languages. (Creation is an example of what Hofstadter calls a strange loop, of recursion without a base case, like a compiler compiling itself.)
 
@@ -97,16 +59,16 @@ There are other courses that will teach you how to do this and time is limited. 
 
 ## What we require students to do
 
-Learning to implement your own programming language, even a small toy language, requires many stepping stones. We provide the salient ones, but each student learns differently. Therefore, students will have to identify their own individual additional stepping stones. To facilitate this, besides doing the weekly homework, students need to take responsibility for their own learning by asking questions, exploring material and synthesizing knowledge. For example, we encourage everybody to actively participate in class and to make ample use of office hours and of our discussion forum on Discord.
+Learning to implement your own programming language, even a small toy language, requires many stepping stones. We provide the salient ones, but each student learns differently. Therefore, students will have to identify their own individual additional stepping stones. To facilitate this, besides doing the weekly homework (self-study, to prepare for quizzes and programming assignments), students need to take responsibility for their own learning by asking questions, exploring material and synthesizing knowledge. We encourage you to ask questions in class and to make ample use of office hours and of our discussion forum on Discord.
 
-In addition to the theoretical work, there will be programming assignments to give a hands-on experience and applications of the theoretical concepts.
+In addition to the theoretical work, there will be three programming assignments to give a hands-on experience and applications of the theoretical concepts. Graded components are quizzes, attendance, and programming assignments; see the [syllabus](syllabus-long.md).
 
 ## Organization
 
 The resources for this course are organized as follows:
 
 - Canvas for everything related to grades, deadlines, and submissions.
-- Codeberg for everything related to code, lecture notes, and other teaching materials.
+- This git repository for code, lecture notes, and other teaching materials.
 - Discord for discussions, troubleshooting, etc.
 
 For details see the Quick Links above.
