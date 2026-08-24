@@ -4,7 +4,7 @@
 **Week 1 — NNG**
 
 - **L1.1**: General introduction.
-- **L1.2**: Lean Natural Number Game (NNG). Homework: hw1 (NNG).
+- **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4). Homework: hw1 (NNG).
 
 **Week 2 — RT1**
 
