@@ -7,7 +7,7 @@ The repository for Chapman University's CPSC 354 Programming Languages (Fall 202
     - [Syllabus](syllabus-long.md)
     - [Attendance](attendance.md)
     - [Git best practices](git-best-practices.md)
-    - Canvas: TBD
+    - Canvas: [S3](https://canvas.chapman.edu/courses/88374)
 
 ## What we will do
 
