@@ -4,6 +4,7 @@ The repository for Chapman University's CPSC 354 Programming Languages (Fall 202
 
 - Quick links
     - [Lecture by Lecture](lecture-by-lecture.md)
+    - [HackMD notes](notes-hackmd/README.md)
     - [Syllabus](syllabus-long.md)
     - [Attendance](attendance.md)
     - [Git best practices](git-best-practices.md)

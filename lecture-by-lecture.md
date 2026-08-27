@@ -1,10 +1,15 @@
 # Lecture by Lecture (PL 2026)
 
+LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is available on Canvas for Chapman students.
 
 **Week 1 — NNG**
 
 - **L1.1**: General introduction.
-- **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4). [How to Write Proofs in Math and in Lean](https://hackmd.io/@alexhkurz/HJdkuFnDzl). Homework: hw1 (NNG).
+- **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4) (Tutorial World).
+  - [How to Write Proofs in Math and in Lean](https://hackmd.io/@alexhkurz/HJdkuFnDzl) (Tutorial Level 8); LNDM, Example 1, pp. 21.  
+  - LNDM, Appendix A pp. 230–235 (proof structure).
+  - [An Example Proof by Induction](https://hackmd.io/@alexhkurz/BkZ4h76hA) (NNG Addition World Level 1); LNDM pp. 30–35.
+  - Homework 1: Finish Addition World. Write out Level 5 in Math and line up the lean proof against the Math proof.
 
 **Week 2 — RT1**
 
