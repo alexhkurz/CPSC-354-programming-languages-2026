@@ -33,7 +33,11 @@ $$
 
 Here $S$ is successor (Lean: `succ`).[^successor]
 
+The right hand column contains the justifications. If the justifications are obvious to the intended audience, we would typically not write them in human style mathematics. 
+
 ### Step 2: Mapping Math to Lean
+
+This table maps the justifications in the mathematics proof to the names of the corresponding rules in Lean:
 
 | Math | Lean | 
 |:---:|:---:|
@@ -44,41 +48,47 @@ Here $S$ is successor (Lean: `succ`).[^successor]
 |def of + | `add_zero`
 |def of + | `add_succ`
 
+If you have done the Tutorial World of the Lean NNG, these names will be familiar.
+
 ### Step 3: Translate from Math to Lean
 
-The aim is to translate Step 1 using the dictionary in Step 2.
+Once you have a fairly detailed Math proof, translating the proof to Lean is often not too difficult (and nowadays AI tools can also help).
+
+For example, the proof above can be translate as follows.
 
 ```{Lean}
-repeat rw [two_eq_succ_one]
-repeat rw [one_eq_succ_zero]
-repeat rw [add_succ]
-rw [add_zero]
 rw [four_eq_succ_three]
 rw [three_eq_succ_two]
 rw [two_eq_succ_one]
 rw [one_eq_succ_zero]
+rw [add_succ]
+rw [add_succ]
+rw [add_zero]
 rfl
 ```
 
+Paste this into Lean [here](https://adam.math.hhu.de/#/g/leanprover-community/nng4/world/Tutorial/level/8) and check it.
+
 ### Step 4: Translate from Lean to Math
 
-This step is optional, but for a full understanding of Lean one needs to be able to perform it.[^latex2]
+Conversely, we translate the Lean proof above to Math by tracing the sequence of goals that Lean shows us when tracing the proof from top to bottom. 
 
 $$
 \begin{align*}
-SSSS0&=SSSS0 & \text{rfl} \\
-SSSS0&=SSS1 & \text{rw [one eq succ zero]} \\
-SSSS0&=SS2 & \text{rw [two eq succ one]} \\
-SSSS0&=S3 & \text{rw [three eq succ two]} \\
-SSSS0&=4 & \text{rw [four eq succ three]} \\
-SSS(S0+0) &= 4 & \text{rw [add succ]}\\
-SS0 + SS0 &= 4 & \text{rw [add succ]}\\
-S1 + S1 & = 4 & \text{repeat rw [one eq succ zero]}\\
-2+2 &= 4 & \text{repeat rw [two eq succ one]}\\
+SSS0 &= SSS0 & \text{rfl}\\
+SS(S0 + 0) &= SSS0 & \text{rw [add zero]}\\
+S(SS0 + S0) &= SSS0 & \text{rw [add succ]}\\
+SS0 + SS0 &= SSSS0 & \text{rw [add succ]}\\
+SS0 + SS0 &= SSS1 & \text{rw [one eq succ zero]}\\
+SS0 + SS0 &= SS2 & \text{rw [two eq succ one]}\\
+S1 + S1 & = S3 & \text{repeat rw [three eq succ two]}\\
+2+2 &= 4 & \text{repeat rw [four eq succ three]}\\
 \end{align*}
 $$
 
-This now matches the proof from Step 3 line by line, but you need to reverse the order as Lean works from the goal to the axioms whereas Math is usually written from the axioms (assumptions) to the conclusion.
+We changed the order as compared, because in Math we start proofs from axioms and reason towards the conclusion while in software tools one typically reasons from the goal towards the assumptions.
+
+This[^latex2] now matches the proof from Step 3 line by line.
 
 ### Questions
 

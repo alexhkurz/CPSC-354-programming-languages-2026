@@ -6,7 +6,8 @@
     - Mon, Wed 400-515 (S1), Hashinger 150
   - Alexander Kurz
     - Tue, Thu, 1130-1245 (S3), Keck 156
-- Office hours: TBD
+- Office hours: 
+  - AK: Tue, Thu, 230-330, Keck N205
 
 ## Course Description 
 
