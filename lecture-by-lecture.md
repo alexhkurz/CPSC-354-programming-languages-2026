@@ -5,7 +5,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 **Week 1 — NNG**
 
 - **L1.1**: General introduction.
-- **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4) (Tutorial World).
+- **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4) (Tutorial World, Addition World).
   - [How to Write Proofs in Math and in Lean](https://hackmd.io/@alexhkurz/HJdkuFnDzl) (Tutorial Level 8); LNDM, Example 1, pp. 21.  
   - LNDM, Appendix A pp. 230–235 (proof structure).
   - [An Example Proof by Induction](https://hackmd.io/@alexhkurz/BkZ4h76hA) (NNG Addition World Level 1); LNDM pp. 30–35.
