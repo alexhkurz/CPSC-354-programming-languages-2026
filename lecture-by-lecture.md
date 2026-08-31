@@ -14,6 +14,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 **Week 2 — RT1**
 
 - **L2.1**: Solution hw1. Rewriting Theory.
+  - Rewriting: [Introduction](https://hackmd.io/n8zklJ_JSOS04QE6NNygBQ?view), [Examples](https://hackmd.io/@jweinberger/rJ3JhYfuGx), [Definitions](https://hackmd.io/@jweinberger/H1Pr6tzOGe)
 - **L2.2**: Rewriting Theory. Homework: hw2 (RT1).
 
 **Week 3 — RT2**
