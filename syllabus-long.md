@@ -8,7 +8,7 @@
     - Tue, Thu, 1130-1245 (S3), Keck 156
 - Office hours: 
   - AK: Tue, Thu, 230-330, Keck N205
-  - JW: Wed, Thu, 10-1130, TBD
+  - JW: Wed 8-930, Thu 10-1130, locations TBD
 
 ## Course Description 
 
