@@ -73,3 +73,7 @@ The resources for this course are organized as follows:
 - Discord for discussions, troubleshooting, etc.
 
 For details see the Quick Links above.
+
+## For maintainers
+
+Repository maintenance conventions (file layout, naming, `notes-hackmd/` workflow, LaTeX builds, git style) live in [`AGENTS.md`](AGENTS.md) and the [repo-maintenance skill](.agents/skills/repo-maintenance/SKILL.md).

@@ -54,7 +54,7 @@ The course will have a practical and a theoretical component.
 
 - *The practical component* will be about building interpreters for small programming languages. We will start with a calculator, that is, an interpreter for the language of high-school arithmetic, then go on to the smallest proper programming language known as lambda calculus. Lambda calculus provides variables and functions. Other programming languages can be seen as extensions thereof. Once we have an interpreter for lambda calculus, we will extend it to larger functional and/or imperative programming languages.
 
-## Required Text
+## Required Course Materials
 
 The technical content of the course will be distributed via this git repository. 
 
