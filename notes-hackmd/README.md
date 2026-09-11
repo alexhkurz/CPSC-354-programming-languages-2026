@@ -10,3 +10,5 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 6. [Rewriting Theory: Examples](https://hackmd.io/@jweinberger/rJ3JhYfuGx) — `06-rewriting-theory-examples.md`
 7. [Rewriting Theory: Definitions](https://hackmd.io/@jweinberger/H1Pr6tzOGe) — `07-rewriting-theory-definitions.md`
 8. [Homework 2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe) — `08-hw2-RT1.md`
+9. [Solution Homework 2 (Rewriting Theory RT1)](https://hackmd.io/89uIvsBBSlCF6VOpS7ultQ) — local file: `09-solution-hw2.md` — (**Due to Labor Day, for Section 1 and 2, this will be merged with L3.2 on Wednesday.**)
+10. [Homework 3 -- String Rewriting](https://hackmd.io/@jweinberger/r1q6RMyKMx) — local file: `10-hw3-rt2.md` — String rewriting and ARS as algorithms
