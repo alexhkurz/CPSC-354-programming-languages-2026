@@ -15,8 +15,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 
 - **L2.1**: Solution hw1. Rewriting Theory.
   - [Solution HW1 (NNG)](https://hackmd.io/@jweinberger/HkdP-EG_fg)
-  - Background: [Discrete Mathematics: Logic and Relations
-](https://hackmd.io/@alexhkurz/S1E449agkg)
+  - Background: [Discrete Mathematics: Logic and Relations](https://hackmd.io/@alexhkurz/S1E449agkg)
   - Rewriting: 
     - [Introduction](https://hackmd.io/n8zklJ_JSOS04QE6NNygBQ?view), 
     - [Examples](https://hackmd.io/@jweinberger/rJ3JhYfuGx), 
@@ -32,52 +31,53 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 
 **Week 4 — Parsing**
 
-- **L4.1**: Solution hw3. Quiz 2 (RT1).
+- **L4.1**: Quiz 2 (RT1). Solution hw3.
+  - [Equivalence Relations](https://hackmd.io/@alexhkurz/S1E449agkg)
 - **L4.2**: Context-free grammars; concrete and abstract syntax trees. Homework: hw4.
 
 **Week 5 — Programming Assignment 1**
 
-- **L5.1**: Solution hw4. Quiz 3 (RT2).
+- **L5.1**: Quiz 3 (RT2). Solution hw4.
 - **L5.2**: Lab on PA1 (calculator). Homework: hw5 (related to PA1).
 
 **Week 6 — Lambda Calculus (LC)**
 
-- **L6.1**: Solution hw5. Quiz 4 (parsing).
+- **L6.1**: Quiz 4 (parsing). Solution hw5.
 - **L6.2**: Lambda calculus: syntax and semantics. Homework: hw6.
 
 **Week 7 — Lean Logic Game (LG)**
 
-- **L7.1**: Solution hw6. Quiz 5 (PA1).
+- **L7.1**: Quiz 5 (PA1). Solution hw6.
 - **L7.2**: Lean Logic Game. Homework: hw7. **Deadline: PA1**.
 
 **Week 8 — Church Encodings**
 
-- **L8.1**: Solution hw7. Quiz 6 (LC).
+- **L8.1**: Quiz 6 (LC). Solution hw7.
 - **L8.2**: Church encodings. Homework: hw8.
 
 **Week 9 — Fixed Point Combinator (Y)**
 
-- **L9.1**: Solution hw8. Quiz 7 (LG).
+- **L9.1**: Quiz 7 (LG). Solution hw8.
 - **L9.2**: Fixed Point Combinator. Homework: hw9.
 
 **Week 10 — Programming Assignment 2**
 
-- **L10.1**: Solution hw9. Quiz 8 (Church).
+- **L10.1**: Quiz 8 (Church). Solution hw9.
 - **L10.2**: Lab on PA2 (lambda calculus). Homework: hw10.
 
 **Week 11 — Recursion**
 
-- **L11.1**: Solution hw10. Quiz 9 (Y).
+- **L11.1**: Quiz 9 (Y). Solution hw10.
 - **L11.2**: Recursion. Homework: hw11.
 
 **Week 12 — Invariants**
 
-- **L12.1**: Solution hw11. Quiz 10 (PA2).
+- **L12.1**: Quiz 10 (PA2). Solution hw11.
 - **L12.2**: Invariants. Homework: hw12. **Deadline: PA2**.
 
 **Week 13 — Programming Assignment 3**
 
-- **L13.1**: Solution hw12. Quiz 11 (Recursion).
+- **L13.1**: Quiz 11 (Recursion). Solution hw12.
 - **L13.2**: Lab PA3.
 
 **Thanksgiving Week**
