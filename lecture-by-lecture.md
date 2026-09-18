@@ -35,7 +35,10 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
   - [Solution hw3](https://hackmd.io/@alexhkurz/SJ0NUotFfg).
   - [Equivalence Relations](https://hackmd.io/@alexhkurz/S1E449agkg#Equivalence-Relations)
   - [Equivalence Classes](https://hackmd.io/@alexhkurz/S1E449agkg#Equivalence-Classes)
-- **L4.2**: [Context-free grammars; concrete and abstract syntax trees](https://hackmd.io/@jweinberger/ByEfEFdFzl). [Homework: hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4).
+- **L4.2**: 
+  - [Parsing](https://hackmd.io/@jweinberger/ByEfEFdFzl) ... [a background reader](https://hackmd.io/@alexhkurz/Bk9IzRYKzg)
+  - [123.md](https://hackmd.io/@alexhkurz/SkPLtk9Kze)
+  - [Homework: hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4).
 
 **Week 5 — Programming Assignment 1**
 
