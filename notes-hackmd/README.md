@@ -12,3 +12,8 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 8. [Homework 2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe) — `08-hw2-RT1.md`
 9. [Solution Homework 2 (Rewriting Theory RT1)](https://hackmd.io/89uIvsBBSlCF6VOpS7ultQ) — local file: `09-solution-hw2.md` — (**Due to Labor Day, for Section 1 and 2, this will be merged with L3.2 on Wednesday.**)
 10. [Homework 3 -- String Rewriting](https://hackmd.io/@jweinberger/r1q6RMyKMx) — local file: `10-hw3-rt2.md` — String rewriting and ARS as algorithms
+11. [Homework 3, Solution](https://hackmd.io/@alexhkurz/SJ0NUotFfg) — local file: `11-solution-hw3.md` — solutions interleaved into the hw3 (RT2) questions
+12. [Intro to Parsing and Context-Free Grammars](https://hackmd.io/@jweinberger/ByEfEFdFzl) — local file: `12-intro-to-parsing-and-context-free-grammars.md` — parsing and CFGs
+13. [Expression Parsing (a background reader)](https://hackmd.io/@alexhkurz/Bk9IzRYKzg) — local file: `13-expression-parsing.md` — background reader on expression parsing
+14. [Expression: 1 + 2 * 3](https://hackmd.io/@alexhkurz/SkPLtk9Kze) — local file: `14-expression-1-plus-2-times-3.md` — worked example: parse tree of `1 + 2 * 3`
+15. [Homework 4 (parsing and CFGs)](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA) — local file: `15-hw4.md` — share link of the same note as 12; includes the hw4 homework section
