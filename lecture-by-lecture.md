@@ -42,7 +42,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 
 **Week 5 — Programming Assignment 1**
 
-- **L5.1**: Quiz 3 (RT2). Solution hw4.
+- **L5.1**: Quiz 3 (RT2). [Solution hw4](https://hackmd.io/@alexhkurz/SkOJDqeqfx).
 - **L5.2**: Lab on PA1 (calculator). Homework: hw5 (related to PA1).
 
 **Week 6 — Lambda Calculus (LC)**

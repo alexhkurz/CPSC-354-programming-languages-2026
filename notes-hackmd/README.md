@@ -1,6 +1,6 @@
 # HackMD notes (PL 2026)
 
-This notes are in the git repo only for backup purposes. Read on Hackmd as linked below.
+This notes are in the git repo only for backup purposes. Read on Hackmd as linked from lecture-by-lecture (or below).
 
 1. [How to Write Proofs in Math and in Lean](https://hackmd.io/@alexhkurz/HJdkuFnDzl) — `01-how-to-write-proofs-in-math-and-lean.md` — NNG Tutorial World (esp. Level 8)
 2. [An Example Proof by Induction](https://hackmd.io/@alexhkurz/BkZ4h76hA) — `02-an-example-proof-by-induction.md` — NNG Addition World (e.g. Level 1); Homework 1
