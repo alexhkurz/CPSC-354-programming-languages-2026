@@ -89,9 +89,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
 - **L13.1**: Quiz 11 (Recursion). Solution hw12.
 - **L13.2**: Lab PA3.
 
-**Thanksgiving Week**
-
-No classes.
+**Thanksgiving Week**. No classes.
 
 **Week 14 — Taking Stock**
 
