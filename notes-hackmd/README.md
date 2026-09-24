@@ -17,3 +17,6 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 13. [Expression Parsing (a background reader)](https://hackmd.io/@alexhkurz/Bk9IzRYKzg) — local file: `13-expression-parsing.md` — background reader on expression parsing
 14. [Expression: 1 + 2 * 3](https://hackmd.io/@alexhkurz/SkPLtk9Kze) — local file: `14-expression-1-plus-2-times-3.md` — worked example: parse tree of `1 + 2 * 3`
 15. [Homework 4 (parsing and CFGs)](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA) — local file: `15-hw4.md` — share link of the same note as 12; includes the hw4 homework section
+16. [A Calculator From Scratch in 60 Minutes with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml) — local file: `16-optional-challenge-calculator-60min.md` — optional challenge: recreate the calculator starting point with a coding assistant
+17. [Programming Assignment 1 (PL 2026)](https://hackmd.io/@alexhkurz/HJIOalf5fg) — local file: `17-pa1-calculator.md` — calculator in Python with a Lark-generated parser; deliverables, grading, test cases
+18. [Homework 5 (abstract syntax trees)](https://hackmd.io/@alexhkurz/BkX02zfcfx) — local file: `18-hw5-asts.md` — ASTs of the hw4 strings as examples; write 5 ASTs in the extended PA1 grammar
