@@ -1,6 +1,6 @@
 # Lecture by Lecture (PL 2026)
 
-LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is available on Canvas for Chapman students.
+LNDM (Lecture Notes on Discrete Mathematics) refers to Dr Moshier's book  and is available on Canvas for Chapman students.
 
 **Week 1 — NNG**
 
@@ -47,7 +47,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Moshier's book  and is av
   - Comments on Quiz 2: [Section 3](https://hackmd.io/@alexhkurz/HJ3X01f5Gg)
   - Homework: [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx) (ASTs and PA1).
   - [Programming Assignment 1](https://hackmd.io/@alexhkurz/HJIOalf5fg) (calculator). On [Git](https://codeberg.org/alexhkurz/calculator-2024/). 
-  - Optional challenge: [A Calculator From Scratchwith a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml). 
+  - Optional challenge: [A Calculator From Scratch with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml). 
 
 **Week 6 — Lambda Calculus (LC)**
 
