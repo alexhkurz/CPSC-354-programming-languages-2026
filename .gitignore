@@ -9,3 +9,5 @@
 *.toc
 .env
 local
+resources/geb.pdf
+resources/geb.txt

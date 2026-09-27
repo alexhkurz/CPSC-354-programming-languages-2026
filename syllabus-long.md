@@ -60,7 +60,9 @@ The technical content of the course will be distributed via this git repository.
 
 No required text.
 
-Hofstadter's book *Gödel, Escher, Bach* is a popular science book that we recommend for general background reaing.
+Hofstadter's book *Gödel, Escher, Bach* is a popular science book that we recommend for general background reaing; [resources/geb.md](resources/geb.md) maps each course topic to the relevant chapters.
+
+For background reading aligned with the course topics, Boaz Barak's [*Introduction to Theoretical Computer Science*](https://introtcs.org/public/) is freely available online; [resources/introtcs.md](resources/introtcs.md) maps each topic to the relevant chapter.
 
 ## Course Materials 
 

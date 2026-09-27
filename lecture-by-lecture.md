@@ -2,6 +2,8 @@
 
 LNDM (Lecture Notes on Discrete Mathematics) refers to Dr Moshier's book  and is available on Canvas for Chapman students.
 
+For background reading: [resources/introtcs.md](resources/introtcs.md) maps each course topic to the matching chapter of Boaz Barak's [Introduction to Theoretical Computer Science](https://introtcs.org/public/), and [resources/geb.md](resources/geb.md) does the same for Hofstadter's *Gödel, Escher, Bach*.
+
 **Week 1 — NNG**
 
 - **L1.1**: General introduction.
