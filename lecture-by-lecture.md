@@ -53,7 +53,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 6 — Lambda Calculus (LC)**
 
-- **L6.1**: Quiz 4 (parsing). Solution hw5.
+- **L6.1**: Quiz 4 (parsing). Solution hw5. [LALR](https://en.wikipedia.org/wiki/LALR_parser)
 - **L6.2**: Lambda calculus: syntax and semantics. Homework: hw6.
 
 **Week 7 — Lean Logic Game (LG)**
