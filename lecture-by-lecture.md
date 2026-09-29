@@ -48,7 +48,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L5.2**: 
   - Comments on Quiz 2: [Section 3](https://hackmd.io/@alexhkurz/HJ3X01f5Gg)
   - Homework: [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx) (ASTs and PA1).
-  - [Programming Assignment 1](https://hackmd.io/@alexhkurz/HJIOalf5fg) (calculator). On [Git](https://codeberg.org/alexhkurz/calculator-2024/). 
+  - [Programming Assignment 1](https://hackmd.io/@alexhkurz/HJIOalf5fg) (calculator). On Git: [calculator-2024](https://codeberg.org/alexhkurz/calculator-2024/). 
   - Optional challenge: [A Calculator From Scratch with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml). 
 
 **Week 6 — Lambda Calculus (LC)**
