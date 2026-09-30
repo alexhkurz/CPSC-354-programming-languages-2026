@@ -54,7 +54,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 6 — Lambda Calculus (LC)**
 
 - **L6.1**: Quiz 4 (parsing). [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
-- **L6.2**: Lambda calculus: syntax and semantics. Homework: [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze).
+- **L6.2**: [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). Homework: [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze).
 
 **Week 7 — Lean Logic Game (LG)**
 
