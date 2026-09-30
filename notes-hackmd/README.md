@@ -20,3 +20,6 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 16. [A Calculator From Scratch in 60 Minutes with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml) — local file: `16-optional-challenge-calculator-60min.md` — optional challenge: recreate the calculator starting point with a coding assistant
 17. [Programming Assignment 1 (PL 2026)](https://hackmd.io/@alexhkurz/HJIOalf5fg) — local file: `17-pa1-calculator.md` — calculator in Python with a Lark-generated parser; deliverables, grading, test cases
 18. [Homework 5 (abstract syntax trees)](https://hackmd.io/@alexhkurz/BkX02zfcfx) — local file: `18-hw5-asts.md` — ASTs of the hw4 strings as examples; write 5 ASTs in the extended PA1 grammar
+19. [HW4 solutions: Concrete Syntax Trees](https://hackmd.io/@alexhkurz/SkOJDqeqfx) — local file: `19-solution-hw4.md` — solutions: ASTs and concrete syntax trees for the hw4 strings
+20. [Quiz 2, Section 3, Feedback Form](https://hackmd.io/@alexhkurz/HJ3X01f5Gg) — local file: `20-quiz-2-section-3-feedback.md` — feedback and grading comments on quiz 2 (Section 3)
+21. [Homework 6 (lambda calculus)](https://hackmd.io/@alexhkurz/SJL8qlocze) — local file: `21-hw6-lambda-calculus.md` — first lambda calculus sheet: confluence, termination, S and K, self-application
