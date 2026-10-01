@@ -23,3 +23,6 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 19. [HW4 solutions: Concrete Syntax Trees](https://hackmd.io/@alexhkurz/SkOJDqeqfx) — local file: `19-solution-hw4.md` — solutions: ASTs and concrete syntax trees for the hw4 strings
 20. [Quiz 2, Section 3, Feedback Form](https://hackmd.io/@alexhkurz/HJ3X01f5Gg) — local file: `20-quiz-2-section-3-feedback.md` — feedback and grading comments on quiz 2 (Section 3)
 21. [Homework 6 (lambda calculus)](https://hackmd.io/@alexhkurz/SJL8qlocze) — local file: `21-hw6-lambda-calculus.md` — first lambda calculus sheet: confluence, termination, S and K, self-application
+22. [HW5 solutions: abstract syntax trees](https://hackmd.io/@jweinberger/BkFor__9Gl) — local file: `22-solution-hw5.md` — solutions: ASTs for the hw5 strings in the extended PA1 grammar
+23. [Quiz 3, Section 3, Feedback Form](https://hackmd.io/@alexhkurz/ByAgibhqfl) — local file: `23-quiz-3-section-3-feedback.md` — feedback and grading comments on quiz 3 (Section 3)
+24. [Lambda Calculus, Syntax and Semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR) — local file: `24-lambda-calculus-syntax-and-semantics.md` — lambda calculus: syntax, beta-reduction, capture-avoiding substitution
