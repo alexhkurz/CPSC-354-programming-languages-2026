@@ -62,7 +62,9 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 7 — Lean Logic Game (LG)**
 
 - **L7.1**: Quiz 5 (PA1). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
-- **L7.2**: Lean Logic Game. Homework: hw7. **Deadline: PA1 (Sunday, 11:59 PM)**.
+- **L7.2**: 
+  - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
+  - Homework: hw7. **Deadline: PA1 (Sunday, 11:59 PM)**.
 
 **Week 8 — Church Encodings**
 
