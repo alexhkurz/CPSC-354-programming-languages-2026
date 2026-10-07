@@ -56,13 +56,15 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L6.1**: Quiz 4 (parsing). [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
 - **L6.2**:
   - Comments on Quiz 3: [Section 3](https://hackmd.io/@alexhkurz/ByAgibhqfl)
-  - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). 
+  - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). [Blockly Lambda Calculus](https://alexhkurz.github.io/BlocklyLambdaCalculus/lc-with-arithmetic/).
   - Homework: [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze).
 
 **Week 7 — Lean Logic Game (LG)**
 
-- **L7.1**: Quiz 5 (PA1). Solution hw6.
-- **L7.2**: Lean Logic Game. Homework: hw7. **Deadline: PA1**.
+- **L7.1**: Quiz 5 (PA1). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
+- **L7.2**: 
+  - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
+  - Homework: hw7. **Deadline: PA1 (Sunday, 11:59 PM)**.
 
 **Week 8 — Church Encodings**
 
@@ -77,7 +79,10 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 10 — Programming Assignment 2**
 
 - **L10.1**: Quiz 8 (Church). Solution hw9.
-- **L10.2**: Lab on PA2 (lambda calculus). Homework: hw10.
+- **L10.2**: Lab on PA2 (lambda calculus). 
+  - [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) 
+  - [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024). 
+  - Homework: hw10.
 
 **Week 11 — Recursion**
 
@@ -92,7 +97,10 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 13 — Programming Assignment 3**
 
 - **L13.1**: Quiz 11 (Recursion). Solution hw12.
-- **L13.2**: Lab PA3.
+- **L13.2**: Lab PA3. 
+  - [Programming Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx)
+  - [lambdaF](https://codeberg.org/alexhkurz/lambdaF-2024).
+  
 
 **Thanksgiving Week**. No classes.
 
