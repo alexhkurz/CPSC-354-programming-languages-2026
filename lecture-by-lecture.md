@@ -64,7 +64,10 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L7.1**: Quiz 5 (PA1). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
 - **L7.2**: 
   - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
-  - The rules of constructive logic: [Natural Deduction](https://hackmd.io/@alexhkurz/r1bYDpMybx). For the `¬` Tutorial see also [Negation in Classical and Intuitionistic Logic](https://hackmd.io/@alexhkurz/Bkn5Q_Pfgl).
+  - The rules of constructive logic for these two tutorials: [Natural Deduction: AND and IMPLIES](notes/natural-deduction-and-implication.md).
+  - Optional:
+      - [Natural Deduction](https://hackmd.io/@alexhkurz/r1bYDpMybx) — the full calculus, including `\/` and `¬`.
+      - [Negation in Classical and Intuitionistic Logic](https://hackmd.io/@alexhkurz/Bkn5Q_Pfgl) — companion to the `¬` Tutorial.
   - [Homework: hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). 
   - **Deadline: PA1 (Sunday, 11:59 PM)**.
 
