@@ -42,8 +42,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [Equivalence Classes](https://hackmd.io/@alexhkurz/S1E449agkg#Equivalence-Classes)
   
 - **L4.2**: 
-  - [Parsing](https://hackmd.io/@jweinberger/ByEfEFdFzl) ... [a background reader](https://hackmd.io/@alexhkurz/Bk9IzRYKzg)
-  - [123.md](https://hackmd.io/@alexhkurz/SkPLtk9Kze)
+  - [Parsing](https://hackmd.io/@jweinberger/ByEfEFdFzl) ... [a background reader](https://hackmd.io/@alexhkurz/Bk9IzRYKzg) ... [123.md](https://hackmd.io/@alexhkurz/SkPLtk9Kze)
   - [hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4).
 
 **Week 5 — Programming Assignment 1 (abstract sytax trees)**
@@ -53,17 +52,17 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   
 - **L5.2**: 
   - Comments on Quiz 2: [Section 3](https://hackmd.io/@alexhkurz/HJ3X01f5Gg)
-  - Homework: [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx) (ASTs and PA1).
+  - [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx) (ASTs and PA1).
   - [Programming Assignment 1](https://hackmd.io/@alexhkurz/HJIOalf5fg) (calculator). On Git: [calculator-2024](https://codeberg.org/alexhkurz/calculator-2024/). 
   - Optional challenge: [A Calculator From Scratch with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml). 
 
 **Week 6 — Lambda Calculus (LC) (capture avoiding substitution ($\beta$-rule))**
 
 - **L6.1**: Quiz 4 (parsing) on [hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4). 
-  - [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
+  - [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl) ... [LALR](https://en.wikipedia.org/wiki/LALR_parser)
 - **L6.2**:
   - Comments on Quiz 3: [Section 3](https://hackmd.io/@alexhkurz/ByAgibhqfl)
-  - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). [Blockly Lambda Calculus](https://alexhkurz.github.io/BlocklyLambdaCalculus/lc-with-arithmetic/).
+  - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR) ... [Blockly Lambda Calculus](https://alexhkurz.github.io/BlocklyLambdaCalculus/lc-with-arithmetic/).
   - Homework: [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze).
 
 **Week 7 — Lean Logic Game (LG) (Curry-Howard Correspondence)**
@@ -72,7 +71,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
 - **L7.2**: 
   - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
-  - The rules of constructive logic for these two tutorials: [Natural Deduction: AND and IMPLIES](notes/natural-deduction-and-implication.md).
+    - The rules of constructive logic for these two tutorials: [Natural Deduction: AND and IMPLIES](https://hackmd.io/@alexhkurz/S1HmK9HjGe).
   - Optional:
       - [Natural Deduction](https://hackmd.io/@alexhkurz/r1bYDpMybx) — the full calculus, including `\/` and `¬`.
       - [Negation in Classical and Intuitionistic Logic](https://hackmd.io/@alexhkurz/Bkn5Q_Pfgl) — companion to the `¬` Tutorial.
