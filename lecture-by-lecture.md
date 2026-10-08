@@ -4,7 +4,7 @@ LNDM (Lecture Notes on Discrete Mathematics) refers to Dr Moshier's book  and is
 
 For background reading: [resources/introtcs.md](resources/introtcs.md) maps each course topic to the matching chapter of Boaz Barak's [Introduction to Theoretical Computer Science](https://introtcs.org/public/), and [resources/geb.md](resources/geb.md) does the same for Hofstadter's *Gödel, Escher, Bach*.
 
-**Week 1 — NNG**
+**Week 1 — NNG (proofs by induction)**
 
 - **L1.1**: General introduction.
 - **L1.2**: [Lean Natural Number Game (NNG)](https://adam.math.hhu.de/#/g/leanprover-community/nng4) (Tutorial World, Addition World).
@@ -13,7 +13,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [An Example Proof by Induction](https://hackmd.io/@alexhkurz/BkZ4h76hA) (NNG Addition World Level 1); LNDM pp. 30–35.
   - Homework 1: Finish Addition World. Write out Level 5 in Math and line up the Lean proof against the Math proof.
 
-**Week 2 — RT1**
+**Week 2 — RT1 (confluence, termination, normal forms)**
 
 - **L2.1**: Solution hw1. Rewriting Theory.
   - [Solution HW1 (NNG)](https://hackmd.io/@jweinberger/HkdP-EG_fg)
@@ -25,13 +25,13 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
  
 - **L2.2**: Rewriting Theory. Homework: [hw2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe).
 
-**Week 3 — RT2**
+**Week 3 — RT2 (equivalence relations, invariants)**
 
 - **L3.1**: Quiz 1 (NNG). [Solution hw2](https://hackmd.io/89uIvsBBSlCF6VOpS7ultQ).  (**Due to Labor Day, for Section 1 and 2, this will be merged with L3.2 on Wednesday.**)
 
 - **L3.2**: Rewriting Theory. Homework: [hw3 (RT2)](https://hackmd.io/@jweinberger/r1q6RMyKMx).
 
-**Week 4 — Parsing**
+**Week 4 — Parsing (concrete syntax trees)**
 
 - **L4.1**: Quiz 2 (RT1). 
   - [Solution hw3](https://hackmd.io/@alexhkurz/SJ0NUotFfg).
@@ -42,7 +42,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [123.md](https://hackmd.io/@alexhkurz/SkPLtk9Kze)
   - [Homework: hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4).
 
-**Week 5 — Programming Assignment 1**
+**Week 5 — Programming Assignment 1 (abstract sytax trees)**
 
 - **L5.1**: Quiz 3 (RT2). [Solution hw4](https://hackmd.io/@alexhkurz/SkOJDqeqfx).
 - **L5.2**: 
@@ -51,7 +51,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [Programming Assignment 1](https://hackmd.io/@alexhkurz/HJIOalf5fg) (calculator). On Git: [calculator-2024](https://codeberg.org/alexhkurz/calculator-2024/). 
   - Optional challenge: [A Calculator From Scratch with a Coding Assistant](https://hackmd.io/@alexhkurz/SyeFTlG9Ml). 
 
-**Week 6 — Lambda Calculus (LC)**
+**Week 6 — Lambda Calculus (LC) (capture avoiding substitution ($\beta$-rule))**
 
 - **L6.1**: Quiz 4 (parsing). [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
 - **L6.2**:
@@ -59,11 +59,12 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
   - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). [Blockly Lambda Calculus](https://alexhkurz.github.io/BlocklyLambdaCalculus/lc-with-arithmetic/).
   - Homework: [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze).
 
-**Week 7 — Lean Logic Game (LG)**
+**Week 7 — Lean Logic Game (LG) (Curry-Howard Correspondence)**
 
 - **L7.1**: Quiz 5 (PA1). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
 - **L7.2**: 
   - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
+  - The rules of constructive logic: [Natural Deduction](https://hackmd.io/@alexhkurz/r1bYDpMybx). For the `¬` Tutorial see also [Negation in Classical and Intuitionistic Logic](https://hackmd.io/@alexhkurz/Bkn5Q_Pfgl).
   - [Homework: hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). 
   - **Deadline: PA1 (Sunday, 11:59 PM)**.
 
