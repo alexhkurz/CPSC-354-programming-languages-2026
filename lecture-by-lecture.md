@@ -33,7 +33,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 4 — Parsing (concrete syntax trees)**
 
-- **L4.1**: Quiz 2 (RT1). 
+- **L4.1**: Quiz 2 (RT1) on [hw2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe). 
   - [Solution hw3](https://hackmd.io/@alexhkurz/SJ0NUotFfg).
   - [Equivalence Relations](https://hackmd.io/@alexhkurz/S1E449agkg#Equivalence-Relations)
   - [Equivalence Classes](https://hackmd.io/@alexhkurz/S1E449agkg#Equivalence-Classes)
@@ -44,7 +44,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 5 — Programming Assignment 1 (abstract sytax trees)**
 
-- **L5.1**: Quiz 3 (RT2). [Solution hw4](https://hackmd.io/@alexhkurz/SkOJDqeqfx).
+- **L5.1**: Quiz 3 (RT2) on [hw3 (RT2)](https://hackmd.io/@jweinberger/r1q6RMyKMx). [Solution hw4](https://hackmd.io/@alexhkurz/SkOJDqeqfx).
 - **L5.2**: 
   - Comments on Quiz 2: [Section 3](https://hackmd.io/@alexhkurz/HJ3X01f5Gg)
   - Homework: [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx) (ASTs and PA1).
@@ -53,7 +53,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 6 — Lambda Calculus (LC) (capture avoiding substitution ($\beta$-rule))**
 
-- **L6.1**: Quiz 4 (parsing). [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
+- **L6.1**: Quiz 4 (parsing) on [hw4](https://hackmd.io/7Z1tR6TPSDaOBPMylhuicA?view#Homework-preparation-for-Quiz-4). [Solution hw5](https://hackmd.io/@jweinberger/BkFor__9Gl). [LALR](https://en.wikipedia.org/wiki/LALR_parser)
 - **L6.2**:
   - Comments on Quiz 3: [Section 3](https://hackmd.io/@alexhkurz/ByAgibhqfl)
   - [Lambda calculus: syntax and semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR). [Blockly Lambda Calculus](https://alexhkurz.github.io/BlocklyLambdaCalculus/lc-with-arithmetic/).
@@ -61,7 +61,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 7 — Lean Logic Game (LG) (Curry-Howard Correspondence)**
 
-- **L7.1**: Quiz 5 (PA1). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
+- **L7.1**: Quiz 5 (PA1) on [hw5](https://hackmd.io/@alexhkurz/BkX02zfcfx). [Solution hw6.](https://hackmd.io/@jweinberger/By1_4H-iMg)
 - **L7.2**: 
   - [Lean Logic Game](https://adam.math.hhu.de/#/g/trequetrum/lean4game-logic). The `->` Tutorial is an independent introduction to lambda calculus. What is the same and what is different? For some tasks you need to have done the `/\` Tutorial first. 
   - The rules of constructive logic for these two tutorials: [Natural Deduction: AND and IMPLIES](notes/natural-deduction-and-implication.md).
@@ -73,12 +73,12 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 8 — Church Encodings**
 
-- **L8.1**: Quiz 6 (LC). Solution hw7.
+- **L8.1**: Quiz 6 (LC) on [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze). Solution hw7.
 - **L8.2**: Church encodings. Homework: hw8.
 
 **Week 9 — Fixed Point Combinator (Y)**
 
-- **L9.1**: Quiz 7 (LG). Solution hw8.
+- **L9.1**: Quiz 7 (LG) on [hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). Solution hw8.
 - **L9.2**: Fixed Point Combinator. Homework: hw9.
 
 **Week 10 — Programming Assignment 2**
