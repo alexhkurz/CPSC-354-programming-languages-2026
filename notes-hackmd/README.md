@@ -26,3 +26,9 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 22. [HW5 solutions: abstract syntax trees](https://hackmd.io/@jweinberger/BkFor__9Gl) — local file: `22-solution-hw5.md` — solutions: ASTs for the hw5 strings in the extended PA1 grammar
 23. [Quiz 3, Section 3, Feedback Form](https://hackmd.io/@alexhkurz/ByAgibhqfl) — local file: `23-quiz-3-section-3-feedback.md` — feedback and grading comments on quiz 3 (Section 3)
 24. [Lambda Calculus, Syntax and Semantics](https://hackmd.io/@alexhkurz/rJR2H3YCR) — local file: `24-lambda-calculus-syntax-and-semantics.md` — lambda calculus: syntax, beta-reduction, capture-avoiding substitution
+25. [HW6 solutions: lambda calculus](https://hackmd.io/@jweinberger/By1_4H-iMg) — local file: `25-solution-hw6.md` — solutions: confluence, termination, S and K, self-application
+26. [Natural Deduction](https://hackmd.io/@alexhkurz/r1bYDpMybx) — local file: `26-natural-deduction.md` — the rules of constructive logic, plain and with Lean proof terms
+27. [Negation in Classical and Intuitionistic Logic](https://hackmd.io/@alexhkurz/Bkn5Q_Pfgl) — local file: `27-negation-in-classical-and-intuitionistic-logic.md` — companion to the $\neg$ Tutorial of the Lean Intro to Logic
+28. [Homework 7 (Lean logic game)](https://hackmd.io/@alexhkurz/rkw5mVXozx) — local file: `28-homework-hw7.md` — first two worlds of the Lean logic game; types of expressions and inhabitants
+29. [Lambda Calculus in Python (2025)](https://hackmd.io/@alexhkurz/B1FMhwc1bg) — local file: `29-lambda-calculus-in-python.md` — a lambda calculus interpreter in Python
+30. [CPSC-354 2025: Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx) — local file: `30-assignment-3.md` — PA3: lambda calculus interpreter (lambdaF); repo: https://codeberg.org/alexhkurz/lambdaF-2024
