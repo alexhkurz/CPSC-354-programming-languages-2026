@@ -18,13 +18,14 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L2.1**: Solution hw1. Rewriting Theory.
   - [Solution HW1 (NNG)](https://hackmd.io/@jweinberger/HkdP-EG_fg)
   - Background: [Discrete Mathematics: Logic and Relations](https://hackmd.io/@alexhkurz/S1E449agkg)
+ 
+- **L2.2**: Rewriting Theory. 
+  - [hw2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe).
   - Rewriting: 
     - [Introduction](https://hackmd.io/n8zklJ_JSOS04QE6NNygBQ?view), 
     - [Examples](https://hackmd.io/@jweinberger/rJ3JhYfuGx), 
     - [Definitions](https://hackmd.io/@jweinberger/H1Pr6tzOGe)
- 
-- **L2.2**: Rewriting Theory. Homework: [hw2 (RT1)](https://hackmd.io/@jweinberger/SJoCCbLufe).
-
+  
 **Week 3 — RT2 (equivalence relations, invariants)**
 
 - **L3.1**: Quiz 1 (NNG). 
