@@ -80,7 +80,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 8 — Church Encodings**
 
-- **L8.1**: Quiz 6 (LC) on [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze). Solution hw7.
+- **L8.1**: Quiz 6 (LC) on [hw6](https://hackmd.io/@alexhkurz/SJL8qlocze). [Solution hw7](https://hackmd.io/2enNsemRRmi1a0rIqH0YGQ?view).
 - **L8.2**: Church encodings. hw8.
 
 **Week 9 — Fixed Point Combinator (Y)**
