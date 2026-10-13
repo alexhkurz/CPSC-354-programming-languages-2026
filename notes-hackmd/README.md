@@ -32,3 +32,5 @@ This notes are in the git repo only for backup purposes. Read on Hackmd as linke
 28. [Homework 7 (Lean logic game)](https://hackmd.io/@alexhkurz/rkw5mVXozx) — local file: `28-homework-hw7.md` — first two worlds of the Lean logic game; types of expressions and inhabitants
 29. [Lambda Calculus in Python (2025)](https://hackmd.io/@alexhkurz/B1FMhwc1bg) — local file: `29-lambda-calculus-in-python.md` — a lambda calculus interpreter in Python
 30. [CPSC-354 2025: Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx) — local file: `30-assignment-3.md` — PA3: lambda calculus interpreter (lambdaF); repo: https://codeberg.org/alexhkurz/lambdaF-2024
+31. [Natural Deduction: AND and IMPLIES](https://hackmd.io/@alexhkurz/S1HmK9HjGe) — local file: `31-natural-deduction-and-implies.md` — the $\wedge$ and $\to$ fragment of natural deduction; rules behind the Lean logic game tutorials
+32. [HW7 solutions: Lean logic game](https://hackmd.io/2enNsemRRmi1a0rIqH0YGQ) — local file: `32-solution-hw7.md` — solutions to hw7 (first two worlds of the Lean logic game)
