@@ -85,7 +85,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 9 — Fixed Point Combinator (Y)**
 
-- **L9.1**: Quiz 7 (LG) on [hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). Solution hw8.
+- **L9.1**: Quiz 7 (LG) on [hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). [Solution hw8](https://hackmd.io/-DhT4alWRe6l1uBq0u_HLg?view).
 - **L9.2**: Fixed Point Combinator. hw9.
 
 **Week 10 — Programming Assignment 2**
