@@ -90,7 +90,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 10 — Programming Assignment 2**
 
-- **L10.1**: Quiz 8 (Church). Solution hw9.
+- **L10.1**: Quiz 8 (Church). [Solution hw9](https://hackmd.io/JEuCH1PxTGaeQ8GUyDY9nw?view).
 - **L10.2**: Lab on PA2 (lambda calculus). 
   - [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) 
   - [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024). 
