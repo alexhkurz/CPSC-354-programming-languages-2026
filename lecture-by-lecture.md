@@ -94,7 +94,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L10.2**: Lab on PA2 (lambda calculus). 
   - [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) 
   - [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024). 
-  - hw10.
+  - [hw10](hw10.md).
 
 **Week 11 — Recursion**
 
