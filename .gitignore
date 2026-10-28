@@ -9,3 +9,8 @@
 *.toc
 .env
 local
+
+# Local assistant / maintainer instructions (not public)
+.agents/
+.cursor/
+AGENTS.md
