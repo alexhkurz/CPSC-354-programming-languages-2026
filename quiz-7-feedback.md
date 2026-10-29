@@ -43,7 +43,7 @@ For example, for this quiz it was important to not confuse programs and types.
 
 | Programs | Types |
 |:---------|:------|
-| $\langle{-},{-}\,\rangle$ | $\land$ |
+| $\langle{-},{-}\rangle$ | $\land$ |
 | $\lambda a\mapsto b$ | $A\to B$ |
 | lowercase $a$ | uppercase $A$ |
 
@@ -54,10 +54,10 @@ For example in Section 3, Question (d),
 the answer
 
 $$
-\lambda A \to \langle A , f\, A\rangle
+\lambda A \to \langle A , f A\rangle
 $$
 
-should look suspicious because it uses type-level notation  ($A$ and $\to$) where one would expect term-level notation ($a$ and $\mapsto$).
+should look suspicious because it uses type-level notation ($A$ and $\to$) where one would expect term-level notation ($a$ and $\mapsto$).
 
 For another example, $\langle a,b\rangle =A\wedge B$ expresses the right idea, but it doesn't type-check on the meta-level: the term on the left is of a different type than the type of the right. 
 
@@ -79,15 +79,15 @@ $$A \land B \to B \land A$$
 
 **(d)** Given $f : A \to B$ and $g : B \to C$, write a $\lambda$-term of type $A \to C$.
 
-$$\lambda a \mapsto g\,(f\, a)$$
+$$\lambda a \mapsto g (f a)$$
 
 **(e)** Given $h : A \land B \to C$, write a $\lambda$-term of type $A \to B \to C$.
 
-$$\lambda a \mapsto \lambda b \mapsto h\,\langle a, b \rangle$$
+$$\lambda a \mapsto \lambda b \mapsto h \langle a, b \rangle$$
 
 **(f)** Given $h : A \to B \to C$, write a $\lambda$-term of type $A \land B \to C$.
 
-$$\lambda p \mapsto h\ (p.\mathrm{left})\ (p.\mathrm{right})$$
+$$\lambda p \mapsto h (p.\mathrm{left}) (p.\mathrm{right})$$
 
 ---
 
@@ -107,15 +107,15 @@ $$A \land B \to A \land A$$
 
 **(d)** Given $f : B \to C$ and $g : A \to B$, write a $\lambda$-term of type $A \to C$.
 
-$$\lambda a \mapsto f\,(g\, a)$$
+$$\lambda a \mapsto f (g a)$$
 
 **(e)** Given $h : A \land B \to C$, write a $\lambda$-term of type $B \to A \to C$.
 
-$$\lambda b \mapsto \lambda a \mapsto h\,\langle a, b \rangle$$
+$$\lambda b \mapsto \lambda a \mapsto h \langle a, b \rangle$$
 
 **(f)** Given $h : A \to B \to C$, write a $\lambda$-term of type $B \land A \to C$.
 
-$$\lambda p \mapsto h\ (p.\mathrm{right})\ (p.\mathrm{left})$$
+$$\lambda p \mapsto h (p.\mathrm{right}) (p.\mathrm{left})$$
 
 ---
 
@@ -135,12 +135,12 @@ $$A \land B \to B \land (A \land B)$$
 
 **(d)** Given $f : A \to B$, write a program of type $A \to A \land B$.
 
-$$\lambda a \mapsto \langle a, f\, a \rangle$$
+$$\lambda a \mapsto \langle a, f a \rangle$$
 
 **(e)** Given $h : A \land B \to C$, write a program of type $A \to B \to C$.
 
-$$\lambda a \mapsto \lambda b \mapsto h\,\langle a, b \rangle$$
+$$\lambda a \mapsto \lambda b \mapsto h \langle a, b \rangle$$
 
 **(f)** Given $h : (A \to B) \land (A \to C)$, write a program of type $A \to B \land C$.
 
-$$\lambda a \mapsto \langle h.\mathrm{left}\, a,\ h.\mathrm{right}\, a \rangle$$
+$$\lambda a \mapsto \langle h.\mathrm{left} a, h.\mathrm{right} a \rangle$$
