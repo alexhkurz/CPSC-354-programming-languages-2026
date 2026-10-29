@@ -43,7 +43,7 @@ For example, for this quiz it was important to not confuse programs and types.
 
 | Programs | Types |
 |:---------|:------|
-| $\langle\,{-},\,{-}\,\rangle$ | $\land$ |
+| $\langle{-},{-}\,\rangle$ | $\land$ |
 | $\lambda a\mapsto b$ | $A\to B$ |
 | lowercase $a$ | uppercase $A$ |
 
