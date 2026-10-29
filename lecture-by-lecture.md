@@ -87,10 +87,12 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L9.1**: Quiz 7 (LG) on [hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx). [Solution hw8](https://hackmd.io/-DhT4alWRe6l1uBq0u_HLg?view).
 - **L9.2**: [Fixed Point Combinator](https://hackmd.io/@jweinberger/Syc3JKSnzg), [notes from class](https://hackmd.io/y2x73wNqTp-EgKxwgd7AXw?view). [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view).
+  - Comments on Quiz 6: [quiz-6-feedback.md](quiz-6-feedback.md)
 
 **Week 10 — Programming Assignment 2**
 
 - **L10.1**: Quiz 8 (Church). [Solution hw9](https://hackmd.io/JEuCH1PxTGaeQ8GUyDY9nw?view).
+  - Comments on Quiz 7: [quiz-7-feedback.md](quiz-7-feedback.md)
 - **L10.2**: Lab on PA2 (lambda calculus). 
   - [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) 
   - [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024). 
