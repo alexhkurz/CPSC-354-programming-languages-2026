@@ -101,7 +101,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 11 — Recursion**
 
 - **L11.1**: Quiz 9 (Y). Solution hw10.
-- **L11.2**: Recursion. hw11.
+- **L11.2**: [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl). hw11.
 
 **Week 12 — Invariants**
 
