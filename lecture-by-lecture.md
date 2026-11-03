@@ -93,7 +93,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 11 — Recursion**
 
-- **L11.1**: Quiz 9 (Y) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... Solution hw10 ... [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... Solution hw10 ... [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
 - **L11.2**:
   - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl).
   - Homework: hw11.
