@@ -67,25 +67,14 @@ scope of `\y`. The `z` is also free.
 ### (b) Substitution
 
 1. Replace the free `x` by `y`:
-
-   $$
-   (x z)[y/x] = y z.
-   $$
+   $(x z)[y/x] = y z$.
 
 2. The outer lambda binds `x`, so there are no free occurrences of `x`
    in its body:
-
-   $$
-   (\lambda x. x z)[y/x] = \lambda x. x z.
-   $$
+   $(\lambda x. x z)[y/x] = \lambda x. x z$.
 
 3. The bound `y` must first be renamed to a fresh variable, say `w`:
-
-   $$
-   (\lambda y. x y)[y/x]
-   = (\lambda w. x w)[y/x]
-   = \lambda w. y w.
-   $$
+   $(\lambda y. x y)[y/x] = (\lambda w. x w)[y/x] = \lambda w. y w$.
 
 The naive result `\y. y y` is wrong because the free `y` inserted for
 `x` becomes bound by the existing `\y`. This changes the meaning of the
