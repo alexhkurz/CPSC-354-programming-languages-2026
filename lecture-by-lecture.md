@@ -93,9 +93,9 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 11 — Recursion**
 
-- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](hw10-sol.md) ... [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](hw10-sol.md) ... 
 - **L11.2**:
-  - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl).
+  - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl). [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
   - Homework: hw11.
 
 **Week 12 — Invariants**
