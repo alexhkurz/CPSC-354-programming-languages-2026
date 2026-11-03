@@ -57,10 +57,9 @@ application associates to the left.
 
 ### (a) Free variables
 
-1. $\operatorname{FV}(\lambda x.\,x\ y) = \{y\}$.
-2. $\operatorname{FV}(\lambda x.\lambda y.\,x\ z) = \{z\}$.
-3. $\operatorname{FV}((\lambda x.\,x\ y)(\lambda y.\,y\ z))
-   = \{y,z\}$.
+1. $\mathrm{FV}(\lambda x. x y) = \{y\}$.
+2. $\mathrm{FV}(\lambda x.\lambda y. x z) = \{z\}$.
+3. $\mathrm{FV}((\lambda x. x y)(\lambda y. y z)) = \{y,z\}$.
 
 In the third term, the first `y` is free because it lies outside the
 scope of `\y`. The `z` is also free.
@@ -70,22 +69,22 @@ scope of `\y`. The `z` is also free.
 1. Replace the free `x` by `y`:
 
    $$
-   (x\ z)[y/x] = y\ z.
+   (x z)[y/x] = y z.
    $$
 
 2. The outer lambda binds `x`, so there are no free occurrences of `x`
    in its body:
 
    $$
-   (\lambda x.\,x\ z)[y/x] = \lambda x.\,x\ z.
+   (\lambda x. x z)[y/x] = \lambda x. x z.
    $$
 
 3. The bound `y` must first be renamed to a fresh variable, say `w`:
 
    $$
-   (\lambda y.\,x\ y)[y/x]
-   = (\lambda w.\,x\ w)[y/x]
-   = \lambda w.\,y\ w.
+   (\lambda y. x y)[y/x]
+   = (\lambda w. x w)[y/x]
+   = \lambda w. y w.
    $$
 
 The naive result `\y. y y` is wrong because the free `y` inserted for
