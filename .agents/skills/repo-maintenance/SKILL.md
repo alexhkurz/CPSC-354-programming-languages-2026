@@ -15,6 +15,8 @@ assignments, shared resources) lives here. Drafts and not-yet-released material
 - Prefer US spelling in course prose.
 - Keep the lecture-by-lecture index (`lecture-by-lecture.md`) in sync when
   adding or renaming course materials — it is the table of contents.
+- Released quiz comments, homeworks, and solutions live under `handouts/`
+  (not the repo root); link them from `lecture-by-lecture.md`.
 - Filenames: lowercase, hyphen-separated (`syllabus-long.md`,
   `lecture-by-lecture.md`).
 - Do not commit build artifacts (`.aux`, `.log`, `.fdb_latexmk`, `.fls`) or

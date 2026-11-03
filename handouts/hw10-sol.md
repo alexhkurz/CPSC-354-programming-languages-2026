@@ -108,39 +108,34 @@ $\alpha$-equivalent.
 
 ## Exercise 4: The substitution algorithm
 
-For
+In `lambdaC`, `substitute(tree, name, replacement)` implements capture-avoiding
+substitution `tree[replacement/name]`. On a lambda
+`('lam', parameter, body)` there are two cases (see `interpreter.py`):
 
-```python
-substitute(('lam', parameter, body), variable, replacement)
-```
+1. If `parameter == name`, return the lambda unchanged:
+   `(\n.e)[r/n] --> \n.e`. Occurrences of `name` in `body` are bound by
+   this binder, so substitution must not enter the body.
+2. If `parameter != name`, **always** rename the binder to a fresh name,
+   then substitute. Concretely, generate `fresh` (the interpreter uses
+   `Var1`, `Var2`, …) and return
 
-the three cases are:
+   ```text
+   (\parameter.body)[replacement/name]
+   --> (\fresh.(body[fresh/parameter]))[replacement/name]
+   ```
 
-1. If `parameter == variable`, return the lambda unchanged. Occurrences
-   of `variable` in `body` are bound by this lambda, so substitution
-   must not enter its body.
-2. If the names differ and `parameter` is not free in `replacement`,
-   recursively substitute in `body`, keeping the same parameter.
-3. If the names differ and `parameter` is free in `replacement`, first
-   rename `parameter` throughout its bound occurrences in `body` to a
-   fresh name. Then recursively perform the requested substitution in
-   the renamed body.
+   that is,
 
-One possible outline is:
+   ```python
+   ('lam', fresh,
+       substitute(
+           substitute(body, parameter, ('var', fresh)),
+           name,
+           replacement))
+   ```
 
-```python
-if parameter == variable:
-    return ('lam', parameter, body)
-elif parameter not in free_variables(replacement):
-    return ('lam', parameter,
-            substitute(body, variable, replacement))
-else:
-    fresh = fresh_name()
-    renamed = substitute(body, parameter, ('var', fresh))
-    return ('lam', fresh,
-            substitute(renamed, variable, replacement))
-```
-
-The fresh name must not occur anywhere in `body` or `replacement`, and
-it should also differ from `variable`. These conditions prevent both
-capture and accidental changes to existing variables.
+The code does **not** test whether `parameter` is free in `replacement`.
+Renaming on every binder that is not `name` is a conservative way to
+avoid capture: it may rename more often than necessary, but it is always
+safe. Fresh names start with uppercase `Var`, so they cannot clash with
+user variables from the grammar (those start with a lowercase letter).

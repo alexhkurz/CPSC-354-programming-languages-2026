@@ -79,7 +79,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L9.1**: Quiz 7 (LG) on [hw7](https://hackmd.io/@alexhkurz/rkw5mVXozx) ... [Solution hw8](https://hackmd.io/-DhT4alWRe6l1uBq0u_HLg?view)
 - **L9.2**:
-  - [Comments on Quiz 6](quiz-6-feedback.md)
+  - [Comments on Quiz 6](handouts/quiz-6-feedback.md)
   - [Fixed Point Combinator](https://hackmd.io/@jweinberger/Syc3JKSnzg), [notes from class](https://hackmd.io/y2x73wNqTp-EgKxwgd7AXw?view).
   - Homework: [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view).
 
@@ -87,13 +87,13 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L10.1**: Quiz 8 (Church) on [hw8](https://hackmd.io/@jweinberger/ByGLlKpjMx) ... [Solution hw9](https://hackmd.io/JEuCH1PxTGaeQ8GUyDY9nw?view)
 - **L10.2**:
-  - [Comments on Quiz 7](quiz-7-feedback.md)
+  - [Comments on Quiz 7](handouts/quiz-7-feedback.md)
   - Lab on PA2 (lambda calculus): [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) ... [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024).
-  - Homework: [hw10](https://hackmd.io/vkE5nRIYSsWMVUNNKqB6PA?view).
+  - Homework: [hw10](handouts/hw10.md).
 
 **Week 11 — Recursion**
 
-- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](hw10-sol.md) ... 
+- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](handouts/hw10-sol.md) ... 
 - **L11.2**:
   - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl). [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
   - Homework: hw11.
