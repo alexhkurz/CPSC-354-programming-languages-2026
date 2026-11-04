@@ -88,12 +88,12 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L10.1**: Quiz 8 (Church) on [hw8](https://hackmd.io/@jweinberger/ByGLlKpjMx) ... [Solution hw9](https://hackmd.io/JEuCH1PxTGaeQ8GUyDY9nw?view)
 - **L10.2**:
   - [Comments on Quiz 7](handouts/quiz-7-feedback.md)
-  - Lab on PA2 (lambda calculus): [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) ... [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024).
+  - [Programming Assignment 2](handouts/pa2.md) (lambda calculus interpreter). Lab: [Lambda Calculus in Python](https://hackmd.io/@alexhkurz/B1FMhwc1bg) ... starter: [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024).
   - Homework: [hw10](handouts/hw10.md).
 
 **Week 11 — Recursion**
 
-- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](handouts/hw10-sol.md) ... 
+- **L11.1**: Quiz 9 (Fixed point combinator) on [hw9](https://hackmd.io/jGN19KP_RIiCX7EI0yGnTg?view) ... [Solution hw10](handouts/hw10-sol.md)
 - **L11.2**:
   - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl). [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
   - Homework: hw11.
@@ -103,8 +103,8 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... Solution hw11
 - **L12.2**:
   - Invariants.
-  - **Deadline: PA2**.
   - Homework: hw12.
+  - **Deadline: [PA2](handouts/pa2.md) (Sunday, 11:59 PM)**.
 
 **Week 13 — Programming Assignment 3**
 
