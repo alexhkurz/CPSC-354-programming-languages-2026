@@ -97,7 +97,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 - **L11.2**:
   - [Comments on Quiz 8](handouts/quiz-8-feedback.md)
   - [Recursion](https://hackmd.io/@alexhkurz/Hk-hjD51bl). [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
-  - Homework: hw11.
+  - [Homework: hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl).
 
 **Week 12 — Invariants**
 
