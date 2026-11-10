@@ -10,4 +10,5 @@ Released quiz comments, homeworks, and solutions (linked from
 | [`quiz-8-feedback.md`](quiz-8-feedback.md) | Solutions to Quiz 8 |
 | [`hw10.md`](hw10.md) | Homework 10 |
 | [`hw10-sol.md`](hw10-sol.md) | Solution to Homework 10 |
+| [`hw11-sol.md`](hw11-sol.md) | Solution to Homework 11 |
 | [`pa2.md`](pa2.md) | Programming Assignment 2 (lambdaC) |
