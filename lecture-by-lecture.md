@@ -24,7 +24,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 3 — RT2 (equivalence relations, invariants)**
 
-- **L3.1**: Quiz 1 (NNG) ... [Solution hw2](https://hackmd.io/89uIvsBBSlCF6VOpS7ultQ). (Due to Labor Day, for Section 1 and 2, this will be merged with L3.2 on Wednesday.)
+- **L3.1**: Quiz 1 (NNG) on [hw1](https://adam.math.hhu.de/#/g/leanprover-community/nng4) ... [Solution hw2](https://hackmd.io/89uIvsBBSlCF6VOpS7ultQ). (Due to Labor Day, for Section 1 and 2, this will be merged with L3.2 on Wednesday.)
 
 - **L3.2**: Rewriting Theory.
   - Homework: [hw3](https://hackmd.io/@jweinberger/r1q6RMyKMx) (RT2).
@@ -101,7 +101,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 12 — Invariants**
 
-- **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... [Solution hw11](handouts/hw11-sol.md)
+- **L12.1**: Quiz 10 (PA2) on [hw10](handouts/hw10.md) ... [Solution hw11](handouts/hw11-sol.md)
 - **L12.2**:
   - Invariants.
   - Homework: hw12.
@@ -109,7 +109,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 13 — Programming Assignment 3**
 
-- **L13.1**: Quiz 11 (Recursion) on hw11 ... Solution hw12
+- **L13.1**: Quiz 11 (Recursion) on [hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl) ... Solution hw12
 - **L13.2**:
   - Lab PA3.
   - [Programming Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx)
