@@ -101,7 +101,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 12 — Invariants**
 
-- **L12.1**: Quiz 10 (PA2) on [hw10](handouts/hw10.md) ... [Solution hw11](handouts/hw11-sol.md)
+- **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... [Solution hw11](handouts/hw11-sol.md)
 - **L12.2**:
   - Invariants.
   - Homework: hw12.
