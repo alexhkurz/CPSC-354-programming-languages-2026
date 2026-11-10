@@ -4,7 +4,9 @@ tags: programming languages
 
 # HW11 solutions: Recursion
 
-Throughout, each line arises from the previous one by a single labeled step. Stacks grow downward.
+[Lecture notes](https://hackmd.io/@alexhkurz/Hk-hjD51bl)
+
+Throughout, each line arises from the previous one by a single labeled step. 
 
 ## Exercise 1: Recursion via rewriting
 
