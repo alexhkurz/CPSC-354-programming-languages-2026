@@ -103,7 +103,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... [Solution hw11](handouts/hw11-sol.md)
 - **L12.2**:
-  - Invariants.
+  - [Invariants](https://hackmd.io/@alexhkurz/Hy0_0qKslg).
   - Homework: hw12.
   - **Deadline: [PA2](handouts/pa2.md) (Sunday, 11:59 PM)**.
 
