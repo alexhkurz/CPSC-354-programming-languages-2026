@@ -103,8 +103,9 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... [Solution hw11](handouts/hw11-sol.md)
 - **L12.2**:
-  - [Invariants](https://hackmd.io/@alexhkurz/Hy0_0qKslg), [Sliding Puzzle](https://alexhkurz.github.io/SlidingPuzzle/), [Tetris Puzzle](https://hackmd.io/@alexhkurz/H18MAZr-T)
-  - Homework: hw12.
+  - [The Prisoners' Hat Puzzle](https://hackmd.io/@jweinberger/r1UAGPfAfg), [Mutilated Chessboard Puzzle](https://hackmd.io/@jweinberger/HJUdVvzRMx), [Tetris Puzzle](https://hackmd.io/@alexhkurz/H18MAZr-T), [Sliding Puzzle](https://alexhkurz.github.io/SlidingPuzzle/)
+  - [Invariants](https://hackmd.io/@alexhkurz/Hy0_0qKslg)
+  - Homework: [hw12](https://hackmd.io/EC0DMjG2RI-aBZKH7aIcEQ)
   - **Deadline: [PA2](handouts/pa2.md) (Sunday, 11:59 PM)**.
 
 **Week 13 — Programming Assignment 3**
