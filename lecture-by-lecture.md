@@ -110,7 +110,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 **Week 13 — Programming Assignment 3**
 
-- **L13.1**: Quiz 11 (Recursion) on [hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl) ... Solution hw12
+- **L13.1**: Quiz 11 (Recursion) on [hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl) ... [Solution hw12](handouts/hw12-sol.md)
 - **L13.2**:
   - Lab PA3.
   - [Programming Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx)

@@ -11,4 +11,5 @@ Released quiz comments, homeworks, and solutions (linked from
 | [`hw10.md`](hw10.md) | Homework 10 |
 | [`hw10-sol.md`](hw10-sol.md) | Solution to Homework 10 |
 | [`hw11-sol.md`](hw11-sol.md) | Solution to Homework 11 |
+| [`hw12-sol.md`](hw12-sol.md) | Solution to Homework 12 |
 | [`pa2.md`](pa2.md) | Programming Assignment 2 (lambdaC) |
