@@ -23,6 +23,8 @@ It is weak. `ab <-> ba` preserves the number of `b`s, and `aa -> bb` increases i
 
 A strong invariant is constant not only on single steps but on whole chains, including backward steps: if $w\to v$ then $P(w)=P(v)$, so $P$ is constant on $\stackrel{\ast}{\longleftrightarrow}$-classes. Different values imply the words are not equivalent, and in particular neither rewrites to the other in any number of steps.
 
+**Remark.** The swaps rearrange letters arbitrarily, and `aa <-> bb` changes the number of `a`s by $\pm 2$. So two words are equivalent exactly when they have the same length and the same parity of the number of `a`s. For each $n\ge 0$ that gives two classes (one for each parity), except that the empty word is alone in length $0$.
+
 ## Exercise 2
 
 (i) Check each rule.
