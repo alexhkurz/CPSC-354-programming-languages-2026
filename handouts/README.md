@@ -13,3 +13,4 @@ Released quiz comments, homeworks, and solutions (linked from
 | [`hw11-sol.md`](hw11-sol.md) | Solution to Homework 11 |
 | [`hw12-sol.md`](hw12-sol.md) | Solution to Homework 12 |
 | [`pa2.md`](pa2.md) | Programming Assignment 2 (lambdaC) |
+| [`pa3.md`](pa3.md) | Programming Assignment 3 (lambdaF) |

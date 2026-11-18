@@ -112,17 +112,16 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L13.1**: Quiz 11 (Recursion) on [hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl) ... [Solution hw12](handouts/hw12-sol.md)
 - **L13.2**:
-  - Lab PA3.
-  - [Programming Assignment 3](https://hackmd.io/@jweinberger/rkQ8qGMWZx)
-  - [lambdaF](https://codeberg.org/alexhkurz/lambdaF-2024).
+  - Lab: [Programming Assignment 3](handouts/pa3.md) (lambdaF: arithmetic, `let`/`letrec`, lists).
+  - Template: [lambdaF](https://codeberg.org/alexhkurz/lambdaF-2024).
 
 **Thanksgiving Week**. No classes.
 
 **Week 14 — Taking Stock**
 
-- **L14.1**: Q&A PA3 ... Quiz 12 (Invariants) on hw12
+- **L14.1**: Q&A [PA3](handouts/pa3.md) ... Quiz 12 (Invariants) on hw12
 - **L14.2**: Collective puzzle solving; student evaluations.
 
 **Finals Week**
 
-- **Deadline: PA3**.
+- **Deadline: [PA3](handouts/pa3.md)** (one submission; see Canvas for the exact datetime).
