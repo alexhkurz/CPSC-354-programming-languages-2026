@@ -28,7 +28,7 @@ letrec insert = \x.\xs.
 
 The template repository [lambdaF-2024](https://codeberg.org/alexhkurz/lambdaF-2024) is a lightly modified copy of [lambdaC-2024](https://codeberg.org/alexhkurz/lambdaC-2024): comments use `//` instead of `--`, so arithmetic can use double minus. Use the lambdaF template, not your PA2 solution or lambdaC.
 
-There is **one submission** at the end: a single `Assignment3` folder that implements the full language. The three parts below are a recommended order of work (add features incrementally, with tests at each step). You do not submit separate milestones.
+There is one submission at the end: a single `Assignment3` folder that implements the full language. The three parts below are a recommended order of work (add features incrementally, with tests at each step). You do not submit separate milestones.
 
 ## Deliverables
 
@@ -37,6 +37,10 @@ There is **one submission** at the end: a single `Assignment3` folder that imple
 - In that repo, create a subdirectory `Assignment3`. Inside that, create the following files (do not change the specified names):
 
 	```
+  Assignment1
+      ...
+  Assignment2
+      ...
 	Assignment3
 	    interpreter.py
 	    grammar.lark
@@ -328,4 +332,4 @@ If you run into technical troubles with the Python scripts, ask on Discord.
 
 ## Deadline
 
-**Finals week** (one submission; see Canvas for the exact datetime).
+**Finals week** (one submission; see Canvas for the exact date and time).
