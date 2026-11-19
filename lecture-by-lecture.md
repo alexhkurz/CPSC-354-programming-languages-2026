@@ -103,6 +103,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L12.1**: Quiz 10 (PA2) on [lambdaC](https://codeberg.org/alexhkurz/lambdaC-2024) ... [Solution hw11](handouts/hw11-sol.md)
 - **L12.2**:
+  - [Comments on Quiz 9](handouts/quiz-9-feedback.md)
   - [The Prisoners' Hat Puzzle](https://hackmd.io/@jweinberger/r1UAGPfAfg), [Mutilated Chessboard Puzzle](https://hackmd.io/@jweinberger/HJUdVvzRMx), [Tetris Puzzle](https://hackmd.io/@alexhkurz/H18MAZr-T), [Sliding Puzzle](https://alexhkurz.github.io/SlidingPuzzle/)
   - [Invariants](https://hackmd.io/@alexhkurz/Hy0_0qKslg)
   - Homework: [hw12](https://hackmd.io/EC0DMjG2RI-aBZKH7aIcEQ)
@@ -112,6 +113,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 
 - **L13.1**: Quiz 11 (Recursion) on [hw11](https://hackmd.io/@jweinberger/Hk4-zVtpfl) ... [Solution hw12](handouts/hw12-sol.md)
 - **L13.2**:
+  - [Comments on Quiz 10](handouts/quiz-10-feedback.md)
   - Lab: [Programming Assignment 3](handouts/pa3.md) (lambdaF: arithmetic, `let`/`letrec`, lists).
   - Template: [lambdaF](https://codeberg.org/alexhkurz/lambdaF-2024).
 
@@ -120,7 +122,7 @@ For background reading: [resources/introtcs.md](resources/introtcs.md) maps each
 **Week 14 — Taking Stock**
 
 - **L14.1**: Q&A [PA3](handouts/pa3.md) ... Quiz 12 (Invariants) on hw12
-- **L14.2**: Collective puzzle solving; student evaluations.
+- **L14.2**: Voluntary double bonus quiz (20pts) you can use to make up for your two lowest ratest quizzes (in addition to the lowest 3 out of 12 that get dropped anyway). See on Canvas for details.
 
 **Finals Week**
 
